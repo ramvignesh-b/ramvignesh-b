@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/hi.svg" />
 </p>
-<p align="center">I am a tech savvy 👨🏾‍💻, who 💖 writing clean codes and creating minimalistic designs for digital
+<p align="center">A tech savvy 👨🏾‍💻, who 💖 writing clean codes and creating minimalistic designs for digital
   solutions.</p>
 <p align="center">
   <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/line.gif"/>
