@@ -20,9 +20,9 @@ Here are some ideas to get you started:
     <hr>
   <div align="center">
   Technology Stack:
-  <ul align="center" style="list-style-position: inside; list-style-image: url('list.gif');">
-    <li><strong>Frontend:</strong> HTML<img src="https://image.flaticon.com/icons/svg/1051/1051277.svg" width="12px">, CSS<img src="https://image.flaticon.com/icons/svg/732/732190.svg" width="14px">, Vanilla<img src="https://image.flaticon.com/icons/svg/541/541509.svg" width="15px">, React <img src="https://image.flaticon.com/icons/svg/919/919851.svg" width="15px"></li>
+  <ul align="center" style="list-style-position: inside; list-style-image: url('https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif');">
+    <li><strong>Frontend:</strong> HTML<img src="https://image.flaticon.com/icons/svg/1051/1051277.svg" width="12px">, CSS<img src="https://image.flaticon.com/icons/svg/732/732190.svg" width="14px">, Vanilla<img src="https://image.flaticon.com/icons/svg/541/541509.svg" width="15px">, React <img src="https://image.flaticon.com/icons/svg/919/919851.svg" width="16px"></li>
   </ul>
-  </div>
   <img align="center" src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/code.svg" width="300px"/>
+</div>
 </p>
