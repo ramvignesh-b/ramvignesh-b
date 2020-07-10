@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/line.gif"/>
 </p>
-<h2 align="center">📚 Current learning path: <strong>🌐<code>Web Development</code></strong></p>
+<h2 align="center">📚 Current learning path: <strong>🌐<code>Web Development</code></strong></h2>
 <p align="center">
   <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/line.gif"/>
 </p>
