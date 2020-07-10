@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/line.gif"/>
 </p>
-<h2 align="center">📚 Current learning path: <strong>🌐<code>Web Development</code></strong></h2>
+<h3 align="center">📚 Current learning path: <strong>🌐<code>Web Development</code></strong></h3>
 <p align="center">
   <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/line.gif"/>
 </p>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/line.gif"/>
     <br/>
     Want to know more about me? <br/>
-      <img src="https://im3.ezgif.com/tmp/ezgif-3-1d10f88dad37.gif" />
+      <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/below.gif" />
   </p>
   <h3 align="center"><a href="https://ramvignesh.me">https://ramvignesh.me</a></h3>
     <p align="center">
