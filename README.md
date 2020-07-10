@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 <div align="center">
   Technology Stack:
-  <h4 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong>Front-end:</strong>
+  <h4 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong><code>Front-end:</code></strong>
     <img src="https://img.icons8.com/color/24/000000/html-5.png"/> - <img src="https://img.icons8.com/color/24/000000/javascript.png"/> - <img src="https://img.icons8.com/color/24/000000/css3.png"/> - <img src="https://img.icons8.com/color/24/000000/react-native.png"/> 
     </h4>
   <h4 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong>Back-end:</strong>
