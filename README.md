@@ -13,16 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/hi.svg"/>
-  <p align="center">I am a tech savvy 👨🏾‍💻, who 💖 writing clean codes and creating minimalistic designs for digital solutions.</p>
-    <hr>
-  <p align="center">Current track: <strong>🌐Web Development</strong>.<p>
-    <hr>
-  <div align="center">
-  Technology Stack:
-  <ul align="center" style="list-style-position: inside; list-style-image: url('https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif');">
-    <li><strong>Frontend:</strong> HTML<img src="https://image.flaticon.com/icons/svg/1051/1051277.svg" width="12px">, CSS<img src="https://image.flaticon.com/icons/svg/732/732190.svg" width="14px">, Vanilla<img src="https://image.flaticon.com/icons/svg/541/541509.svg" width="15px">, React <img src="https://image.flaticon.com/icons/svg/919/919851.svg" width="16px"></li>
-  </ul>
-  <img align="center" src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/code.svg" width="300px"/>
-</div>
+  <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/hi.svg" />
 </p>
+<p align="center">I am a tech savvy 👨🏾‍💻, who 💖 writing clean codes and creating minimalistic designs for digital
+  solutions.</p>
+<p align="center">
+  <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/line.gif"/>
+</p>
+<h2 align="center">Current track: <strong>🌐Web Development</strong></p>
+<p align="center">
+  <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/line.gif"/>
+</p>
+<div align="center">
+  Technology Stack:
+  <h3 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong>Front-end:</strong>
+    <img src="https://img.icons8.com/color/24/000000/html-5.png"/> - <img src="https://img.icons8.com/color/24/000000/javascript.png"/> - <img src="https://img.icons8.com/color/24/000000/css3.png"/> - <img src="https://img.icons8.com/color/24/000000/react-native.png"/> 
+    </h3>
+  <h3 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong>Back-end:</strong>
+    <img src="https://img.icons8.com/color/24/000000/python.png"/> - <img src="https://img.icons8.com/windows/24/000000/django.png"/> - <img src="https://img.icons8.com/windows/25/000000/nodejs.png"/>
+    </h3>
+  <h3 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong>Database:</strong>
+    <img src="https://img.icons8.com/ios/28/000000/mysql-logo.png"/> - <img src="https://img.icons8.com/color/24/000000/mongodb.png"/>
+    </h3>
+    <p align="center">
+    <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/code.svg" width="300px" />
+  </p>
+</div>
