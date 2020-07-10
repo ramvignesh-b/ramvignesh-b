@@ -26,15 +26,15 @@ Here are some ideas to get you started:
 </p>
 <div align="center">
   Technology Stack:
-  <h4 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong><code>Front-end:</code></strong>
+  <h5 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong><code>Front-end:</code></strong>
     <img src="https://img.icons8.com/color/24/000000/html-5.png"/> - <img src="https://img.icons8.com/color/24/000000/javascript.png"/> - <img src="https://img.icons8.com/color/24/000000/css3.png"/> - <img src="https://img.icons8.com/color/24/000000/react-native.png"/> 
-    </h4>
-  <h4 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong><code>Back-end:</code></strong>
+    </h5>
+  <h5 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong><code>Back-end:</code></strong>
     <img src="https://img.icons8.com/color/24/000000/python.png"/> - <img src="https://img.icons8.com/windows/24/000000/django.png"/> - <img src="https://img.icons8.com/windows/25/000000/nodejs.png"/>
-    </h4>
-  <h4 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong><code>Database:</code></strong>
+    </h5>
+  <h5 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" /> <strong><code>Database:</code></strong>
     <img src="https://img.icons8.com/ios/28/000000/mysql-logo.png"/> - <img src="https://img.icons8.com/color/24/000000/mongodb.png"/>
-    </h4>
+    </h5>
     <p align="center">
     <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/code.svg" width="300px" />
   </p>
