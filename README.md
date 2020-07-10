@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center" style="background:#000">
+<p align="center">
   <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/hi.svg"/>
-  <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/code.svg"/>
+  <h3 align="justify">I am a tech savvy 👨🏾‍💻, who loves writing clean codes and creating minimalistic designs for digital solutions.</h3>
+  <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/code.svg" width="300px"/>
 </p>
