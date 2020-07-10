@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center" style="background:#000">
-  <img src="hi.svg"/>
+  <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/hi.svg"/>
 <img src="https://lh3.googleusercontent.com/LxPz8_Kvy25PN6Oj5ti4_DxJhGc95PDmsSUU_W7omhmAHXm2ZqtrBHkRFAgCdk4jzsY88wKMz_toIcAe0fbQWtVylMrO6CteaPCGoLqj5Io6cq4Nr67MXH8fVsoDkegoGRZXIokHiUcuT60TcqTHSZoMRxXxQrWn6EoEpVcJ7iN57Qmak4L3u6VnrAgq_sST3Nh585N_PmTqXRXGZ16mLNu8Rjxe0I8NYoKjSPmZnegND0F4sEVdfpX2obaOQ-3VxDYGhhy51yiDsAE_FszZE2YZhAoj2eTJsOlr1GIktDkkqgQgrEnCaRnsAwZwtk94GZHb2hxGPZjJ66rxIjozWWs1Mb3fV3V3kGoNarC2ovAlYRW1nfuLfI3HXhqqqG3jFIvACSropX0GZnBZHLvHl1lAVbKF-mfCEO5PhKYMKtzg8-fkBSHP6gh1Xp_lIDg-tzUlgvj3ZUJ5E1jO7Dlw3klo93tAJSUdyBOg9NK5-9-lZMtlhtgsN5TtehEAjJwl6R-Rxy0X1eXNa830Zf_5foDAGS1wLroiKNbK4niRda9jmx04JgPq_iAZRbpRAFvpSnYu_kXR2slrqE4zoFSWrWnCX7Bq6HMRXV4aN_TuEXQlPeKkfJqmaqigrYVN5OgeyYJk3m20ihZh5TMssNBcUaGSmZmlKE6Y_kNTj6uTytIddQcPvlGTa0AYDxZC=s532-no?authuser=0" width="200px"/>
 </div>
