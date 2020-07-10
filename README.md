@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/code.svg" width="300px" />
   </p>
   <p align="center">
-    Attribution: <a href="https://icons8.com" target="_blank">Icons</a> <a href="https://freepik.com.com"
+    Attribution: <a href="https://icons8.com" target="_blank">Icons</a> <a href="https://freepik.com"
       target="_blank">Freepik</a>
   </p>
 </div>
