@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 <p align="center" style="background:#000">
   <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/hi.svg"/>
-</div>
+  <img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/code.svg"/>
+</p>
