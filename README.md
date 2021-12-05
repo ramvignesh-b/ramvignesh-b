@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <strong><code>Front-end:</code></strong>
     <img src="https://img.icons8.com/color/24/000000/html-5.png" /> - <img
       src="https://img.icons8.com/color/24/000000/javascript.png" /> - <img
-      src="https://img.icons8.com/color/24/000000/css3.png" /> - <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+      src="https://img.icons8.com/color/24/000000/css3.png" /> - <img src="https://img.icons8.com/color/24/000000/angularjs.png"/>
   </h5>
   <h5 align="center"><img src="https://github.com/ramvignesh-b/ramvignesh-b/blob/master/list.gif" />
     <strong><code>Back-end:</code></strong>
